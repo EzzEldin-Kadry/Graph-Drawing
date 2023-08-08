@@ -1,5 +1,6 @@
 # Graph-Drawing
-Graph drawing is a system that visualizes graphs, it process any graph data and shows visualized graph for these data and enable the user to choose some edges from the graph. implemented in (2019)
+
+Graph drawing is a system that visualizes graphs. It takes any graph data as input, and produces a visualized graph that shows the relationships between the nodes and edges of the graph. The user can then choose to highlight or remove specific edges from the graph. (2019)
 ## Preview
 ![preview2](https://user-images.githubusercontent.com/110013767/181174563-47a1c4e1-5285-4211-b7a7-3dbe47d72356.gif)
 ## Selecting Graph Type and Entering Data
